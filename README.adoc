@@ -738,3 +738,4 @@ by Khronos.
     OpenCL-Registry repository.
   * 2018-02-15 - Retarget document from Vulkan repository for OpenCL
     asciidoctor spec builds.
+Created by Jason Scott Heise
