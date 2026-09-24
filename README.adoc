@@ -739,4 +739,3 @@ by Khronos.
   * 2018-02-15 - Retarget document from Vulkan repository for OpenCL
     asciidoctor spec builds.
 Created by Jason Scott Heise
-Owned by Jason Scott Heise & Elon Musk https://www.x.com 
